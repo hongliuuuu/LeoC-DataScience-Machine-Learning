@@ -4,6 +4,10 @@
 
 UCI:http://archive.ics.uci.edu/ml/
 
+http://www.inf.ed.ac.uk/teaching/courses/dme/html/datasets0405.html
+
+http://www.models.life.ku.dk/datasets
+
 #Contest:
 
 Kaggle: https://www.kaggle.com/datasets
