@@ -8,6 +8,8 @@ http://www.inf.ed.ac.uk/teaching/courses/dme/html/datasets0405.html
 
 http://www.models.life.ku.dk/datasets
 
+http://www.kdnuggets.com/datasets/index.html
+
 #Contest:
 
 Kaggle: https://www.kaggle.com/datasets
