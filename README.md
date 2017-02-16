@@ -10,6 +10,12 @@ http://www.models.life.ku.dk/datasets
 
 http://www.kdnuggets.com/datasets/index.html
 
+http://www.causality.inf.ethz.ch/repository.php
+
+http://mldata.org/repository/tags/data/Classification/?data_page=2
+
+http://wadam-data.dis.uniroma1.it/
+
 #Contest:
 
 Kaggle: https://www.kaggle.com/datasets
