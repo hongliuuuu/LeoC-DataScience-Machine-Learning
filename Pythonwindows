@@ -1,0 +1,9 @@
+1. Install python from official website: https://www.python.org/downloads/windows/
+
+2. Install numpy+mkl as step 3
+
+3. There is problem using pip install scipy on windows, instead using http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy 
+to download the correct version, eg. scipy‑0.19.0‑cp36‑cp36m‑win32.whl, then use pip to install it:
+eg. pip install scipy‑0.19.0‑cp36‑cp36m‑win32.whl
+
+4. sklearn: the same way as 3.
